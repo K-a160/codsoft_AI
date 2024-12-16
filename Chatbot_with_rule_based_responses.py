@@ -3,7 +3,7 @@ import re
 # Chatbot to simulate a converstion assistant based on predefined rules.
 
 def chatbot():
-    print("Chatbot: Hello! Iam a chatbot . How can i assist you today?")
+    print("Chatbot: Hello! I am a chatbot . How can i assist you today?")
     
     while True:
         user_input = input("user: ").strip().lower()
